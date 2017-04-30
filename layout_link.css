@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+#div1{
+	background-image:url(IMG/BG_04.jpg);
+	background-size:120% 100%;
+	height:300px;
+	width:600px;
+	margin:auto;
+}
+
+#div1_p{
+	height:30px;
+	width:240px;
+	position:absolute;
+	margin-left:90px;
+	margin-top:90px;
+}
+
+#div2{
+	height:300px;
+	width:600px;
+	background-color:rgb(228,229,226);
+	margin:auto;
+}
+
+#div2_p1{
+	height:30px;
+	width:240px;
+	position:absolute;
+	margin-left:360px;
+	margin-top:90px;
+}
+
+#div2_p2{
+	height:25px;
+	width:240px;
+	position:absolute;
+	margin-left:360px;
+	margin-top:150px;
+}
+
+#div3{
+	height:300px;
+	width:600px;;
+	background-color:rgb(210,221,201);
+	margin:auto;
+}
+
+
+#div3_p1{
+	height:30px;
+	width:240px;
+	position:absolute;
+	margin-left:100px;
+	margin-top:80px;
+}
+
+#div3_p2{
+	height:25px;
+	width:240px;
+	position:absolute;
+	margin-left:100px;
+	margin-top:110px;
+}
+
+#div4{
+	height:300px;
+	width:600px;
+	background-color:rgb(228,229,226);
+	margin:auto;
+}
+
+#div4_p1{
+	height:30px;
+	width:240px;
+	position:absolute;
+	margin-left:360px;
+	margin-top:110px;
+}
+
+#div4_p2{
+	height:25px;
+	width:240px;
+	position:absolute;
+	margin-left:360px;
+	margin-top:150px;
+}
+
+#div5{
+	height:300px;
+	width:600px;;
+	background-color:rgb(210,221,201);
+	margin:auto;
+}
+
+#div5_p1{
+	height:30px;
+	width:240px;
+	position:absolute;
+	margin-left:240px;
+	margin-top:20px;
+}
+
+#div5_p2{
+	height:30px;
+	width:240px;
+	color:rgb(187,187,187);
+}
+
+#div6{
+	background-image:url(IMG/comment.png);
+	background-size:600px 250px;
+	height:250px;
+	width:600px;
+	margin:auto;
+	background-color:rgb(228,229,226);
+}
+
+#div7{
+	background-color:rgb(47,47,49);
+	height:120px;
+	width:600px;
+	margin:auto;
+}
+
+a{
+	color:white;
+	text-decoration: none
+}
+a:hover{
+	color:#3F0;
+	text-decoration: none
+}
+
+b{
+	color:rgb(92,92,92);
+	text-decoration: none
+}
+b:hover{
+	color:#3F0;
+	text-decoration: none
+}
+
+#nav1{ 
+       background-image:url(IMG/SZU1.PNG);
+	   background-size:350px 250px;
+	   width:250px;
+	   height:350px;
+	   border: 1px solid #D4CD49;       position:fixed;
+	   left:0;
+	   top:22%;
+}
+
+#nav2{ 
+       background-image:url(IMG/SZU2.PNG);
+	   background-size:350px 250px;
+	   width:250px;
+	   height:350px;
+	   border: 1px solid #D4CD49;       position:fixed;
+	   right:0;
+	   top:22%;
+}
